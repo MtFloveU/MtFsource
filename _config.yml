@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: MtF Forever
+subtitle: '性别不是框定限制我的属性。'
+description: "I'm bloody girling"
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: 永不言弃❤
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://mtforever.pages.dev
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
